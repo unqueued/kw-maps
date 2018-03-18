@@ -1,0 +1,107 @@
+SCRIPT:0-Welcome
+"Welcome to yet another TD by erl115 :P \n Build a tower (at your area) before the map starts! (this is to avoid troll players) \n \n \n www.erl115.net"
+End
+
+SCRIPT:0-CAM-Sendmoney
+"Here you can send money to other players using the (B) Beacon ability on the player color box :) Each 'send' will send 1000$ to the selected player."
+End
+
+SCRIPT:0-0-BONUS-END-INFO
+"Now Commander! Now it't time for a real test! \n \n Temporal and statis shield will from now on be disabled! There will be more levels for you, but these levels will be hard! I'll give you all 5 more lifes! Use your knowledge, Commander! :D \n \n \n Now... Prepare for war!"
+End
+
+SCRIPT:0-CAM-Upgrades
+"Here you can get upgrades for your towers. \n \n Be aware that some towers (custom towers) and powers will be available later in the game!"
+End
+
+SCRIPT:0-ALLYATTACK-WARNING
+"---------------- WARNING ---------------- \n \n Someone has attacked their ally! They will now lose all their money!"
+End
+
+SCRIPT:0-NEW-UNITS-TOWERS-ALLOWED
+"NEW UNITS/TOWERS ALLOWED!!!"
+End
+
+SCRIPT:0-Unlimited-Temporal
+"YOU NOW HAVE FREE UNLIMITED TEMPORAL WORMHOLES! :D"
+End
+
+SCRIPT:0-Welcome2
+"TIPS: \n \n - You can move your Scrin MCV (Don't sell it! And don't unpack in the path!) \n \n - You can use AI Handicap for easier waves \n \n - Don't build anything in the TD path! And don't send zone troopers down or over the path! \n \n - Don't attack your allies! \n \n - And build a tower (at your area) before the map starts to avoid being banned :) \n \n - Redeemer activates in level 15, hexa in level 25, and marv in level 30 \n \n - Marv upgrade costs: 5000$ - Hexa upgrade costs: 3500$ - Redeemer upgrade costs: 2500$ \n \n - When the map starts, if you use beacon inside the wormhole in the middle before 15secs, then you will bypass the intro ;) \n \n HAVE FUN!"
+End
+
+SCRIPT:0-MARV-INFO
+"This is your CUSTOM Upgrade Area, Commander! \n \n To upgrade the CUSTOM Towers (the super tanks), just use beacon (B) ability on the little button after the upgrade text. \n \n  You can upgrade the Custom Towers Max 10 times! MARV (M) is the most expensive one (5000$), REDEEMER (R) is the cheapest one! (2500$) \n \n \n These custom towers will be availible later in the game..."
+End
+
+SCRIPT:0-Kills-p1
+"P1 kills:"
+End
+
+SCRIPT:0-Kills-p2
+"P2 kills:"
+End
+
+SCRIPT:0-Kills-p3
+"P3 kills:"
+End
+
+SCRIPT:0-Kills-p4
+"P4 kills:"
+End
+
+SCRIPT:0-Money-p1
+"P1 money:"
+End
+
+SCRIPT:0-Money-p2
+"P2 money:"
+End
+
+SCRIPT:0-Money-p3
+"P3 money:"
+End
+
+SCRIPT:0-Money-p4
+"P4 money:"
+End
+
+SCRIPT:0-Level
+"Level:"
+End
+
+SCRIPT:0-Lifes
+"LIFES:"
+End
+
+SCRIPT:0-LEVEL-BOSS
+"BOSS LEVEL!"
+End
+
+SCRIPT:0-LEVEL-INVIS
+"INVISIBLE LEVEL!"
+End
+
+SCRIPT:0-LEVEL-SPECIAL
+"SPECIAL LEVEL!"
+End
+
+SCRIPT:0-LEVEL-MONEY
+"MONEY LEVEL!"
+End
+
+SCRIPT:0-MARVVVVVVVVVVVVVVV
+"MARV ACTIVATED!!!"
+End
+
+SCRIPT:0-HEXAAAAAAAAAAAAAAA
+"HEXA ACTIVATED!!!"
+End
+
+SCRIPT:0-REDEEMERRRRRRRRRRRRRRR
+"REDEEMER ACTIVATED!!!"
+End
+
+SCRIPT:0-OUTRO-END
+"You have completed the TD, COMMANDER! ^^ \n \n \n The game will finish after this little credit scene ^^ \n \n I hope you enjoyed this TD, and I hope you will continue playing KW in the future to come;) \n Thanks again to CNC-Online, Revora and C&C Forums, EA and online players who keep this game alive :D \n \n If you don't already have my Final Map Pack downloaded, you can always download it and more on my website: \n --------------- www.erl115.net --------------- \n \n \n Have a further good day, Commander! You're always welcome back to play the map :D"
+End

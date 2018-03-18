@@ -1,0 +1,23 @@
+SCRIPT:0-WELCOME
+"Welcome to TANK MISSION by erl115 :D \n \n Your only goal is to reach the end of the map and destroy the CORE! \n Level up your tank, pick up crates, find new allied units and move on, Commander! \n \n Use handicap on AI for easier difficulty \n \n Lose your main tank and you will die! \n \n \n Good luck! ^^"
+End
+
+SCRIPT:0-OPENGATE
+"You need to destroy the Barrier Control Tower to open the Gate!"
+End
+
+SCRIPT:0-DESTROYCORE
+"You must destroy the CORE before it Explodes! If the timer reach zero you will all die! \n \n Phase Field Support Power is ONE TIME USE ONLY!"
+End
+
+SCRIPT:0-TIMEBEFOREDEATH
+"CORE Explodes in:"
+End
+
+SCRIPT:0-MORETIMEadded
+"Someone killed 50 enemies, 4min added to CORE timer! + 250$"
+End
+
+SCRIPT:0-HEAVYHUNT
+"SOME HEAVY BIG TANK IS HUNTING YOU, COMMANDER! HURRY UP DESTROY THE CORE BEFORE HE FINDS YOU!"
+End

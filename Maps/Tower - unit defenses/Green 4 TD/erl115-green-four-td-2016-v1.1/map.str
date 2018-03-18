@@ -1,0 +1,91 @@
+SCRIPT:0-Welcome
+"Welcome to yet another TD by erl115 :P \n Build a tower (at your area) before the map starts! (this is to avoid troll players) \n \n \n www.erl115.net"
+End
+
+SCRIPT:0-CAM-Sendmoney
+"Here you can send money to other players using the (B) Beacon ability on the player color box :) Each 'send' will send 1000$ to the selected player."
+End
+
+SCRIPT:0-CAM-Upgrades
+"Here you can get upgrades for your towers. \n \n Be aware that some towers (incl. marv) and powers will be available later in the game!"
+End
+
+SCRIPT:0-ALLYATTACK-WARNING
+"---------------- WARNING ---------------- \n \n Someone has attacked their ally! Move your units away from that area now! (or die) \n As long as you move your units away and keep them for yourself, you will be fine."
+End
+
+SCRIPT:0-NEW-UNITS-TOWERS-ALLOWED
+"NEW UNITS/TOWERS ALLOWED!!!"
+End
+
+SCRIPT:0-Unlimited-Temporal
+"YOU NOW HAVE UNLIMITED TEMPORAL WORMHOLES! :D"
+End
+
+SCRIPT:0-Welcome2
+"TIPS: \n \n - You can move your Scrin MCV (Don't sell it!) \n \n - You can use AI Handicap for easier waves \n \n - Don't build anything in the TD path! \n \n - Don't attack your allies, and build a tower (at your area) before the map starts to avoid being banned :) \n \n \n =)"
+End
+
+SCRIPT:0-MARV-INFO
+"This is your MARV Upgrade Area, Commander! \n \n To upgrade the MARV Tower, just use beacon (B) ability on the little GREEN SPOT, it will cost you 2500$! \n \n  You can upgrade the MARV UNLIMITED TIMES! ^^"
+End
+
+SCRIPT:0-Kills-p1
+"P1 kills:"
+End
+
+SCRIPT:0-Kills-p2
+"P2 kills:"
+End
+
+SCRIPT:0-Kills-p3
+"P3 kills:"
+End
+
+SCRIPT:0-Kills-p4
+"P4 kills:"
+End
+
+SCRIPT:0-Money-p1
+"P1 money:"
+End
+
+SCRIPT:0-Money-p2
+"P2 money:"
+End
+
+SCRIPT:0-Money-p3
+"P3 money:"
+End
+
+SCRIPT:0-Money-p4
+"P4 money:"
+End
+
+SCRIPT:0-Level
+"Level: 35 /"
+End
+
+SCRIPT:0-Lifes
+"LIFES: 25 /"
+End
+
+SCRIPT:0-LEVEL-BOSS
+"BOSS LEVEL!"
+End
+
+SCRIPT:0-LEVEL-INVIS
+"INVISIBLE LEVEL!"
+End
+
+SCRIPT:0-LEVEL-SPECIAL
+"SPECIAL BONUS LEVEL!"
+End
+
+SCRIPT:0-LEVEL-MONEY
+"MONEY LEVEL!"
+End
+
+SCRIPT:0-OUTRO-END
+"You have completed the TD, COMMANDER! ^^ \n \n \n The game will finish after this little credit scene ^^ \n \n I hope you enjoyed this TD, and I hope you will continue playing KW in the future to come;) \n Thanks again to CNC-Online, Revora and C&C Forums, EA and online players who keep this game alive :D \n \n If you don't already have my Final Map Pack downloaded, you can always download it and more on my website: \n --------------- www.erl115.net --------------- \n \n \n Have a further good day, Commander! You're always welcome back to play the map :D"
+End

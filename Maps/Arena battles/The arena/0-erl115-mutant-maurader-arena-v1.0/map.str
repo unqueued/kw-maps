@@ -1,0 +1,19 @@
+SCRIPT:0-Welcome
+"Welcome Commander! \n \n \n Every time you kill a mutant maurader squad, two more squads will spawn at the enemy side! So keep killing mutants without losing your Commander :) \n \n Good luck!"
+End
+
+SCRIPT:0-Kills-Top
+"Kills top:"
+End
+
+SCRIPT:0-Kills-Bot
+"Kills bot:"
+End
+
+SCRIPT:0-Enemies-top
+"Total mutants spawned:"
+End
+
+SCRIPT:0-Enemies-bot
+"Mutants bot:"
+End

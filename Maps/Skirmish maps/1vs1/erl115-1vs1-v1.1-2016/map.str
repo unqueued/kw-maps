@@ -1,0 +1,15 @@
+SCRIPT:0-VOTING
+"Vote here using (B) Beacon ability on the color boxes! \n \n When voted, you will be notified. \n \n \n \n Made by erl115 ^^"
+End
+
+SCRIPT:0-VOTING-VOTED
+"Voted"
+End
+
+SCRIPT:0-START
+"Game is now starting with the voted options! Good luck ^^"
+End
+
+SCRIPT:0-GAMESTART-IN
+"Gamestart in:"
+End

@@ -1,0 +1,127 @@
+SCRIPT:0-Welcome
+"Welcome to GREEN4TD by erl115 :) 'REMAKE Version 3' :D"
+End
+
+SCRIPT:0-CAM-Sendmoney
+"Here you can send money to players using the (B) Beacon ability in the player color box, you need at least 1000$ to send money. Use SEND or KICK mode. \n \n You can also buy more lifes for later, use 'Power Signature Scan' for more information..."
+End
+
+SCRIPT:0-0-BONUS-END-INFO
+"Commander! It's time for the real test! \n \n There will be more levels for you, but those levels will be harder! \n \n \n Prepare for war!"
+End
+
+SCRIPT:0-BUYLIFESSSSSSSSSSSSSSSSSS
+"A player bought one extra life! :D"
+End
+
+SCRIPT:0-LAST-BOSS-KING-5-LIFES-LEAK
+"THE KING IS HERE! YOU MUST STOP HIM AT ALL COST! HE WILL TAKE 5 LIFES EACH LEAK!!!"
+End
+
+SCRIPT:0-CAM-Upgrades
+"Here you can get upgrades for your towers. \n \n Some towers (like the custom towers) and support powers will be available later in the game."
+End
+
+SCRIPT:0-ALLYATTACK-WARNING
+"---------------- WARNING ---------------- \n \n Someone attacked their ally! They will now lose all their money!"
+End
+
+SCRIPT:0-NEW-UNITS-TOWERS-ALLOWED
+"NEW UNITS/TOWERS ALLOWED AND ACTIVATED!"
+End
+
+SCRIPT:0-Welcome2
+"TIPS: \n \n - Use beacon inside wormhole when starting game to bypass intro ;) \n \n - You can use AI Handicap for easier or harder gameplay! 35% handicap is Normal Difficulty. \n \n - You can move your Scrin MCV (Don't sell) \n \n Use SEND or KICK mode to send money to or kick a player, kicking only works when at least 3 human players, and only one kick per player. \n \n - You must have at least 1 kill before level 2 starts or get kicked! \n \n - Don't send infantry or zone troopers in TD Path! \n \n - Redeemer activates at level 11, hexa level 21, and marv level 31 \n \n - Marv upgrade costs: 5000$ - Hexa upgrade costs: 3500$ - Redeemer upgrade costs: 2000$ \n \n Use (B) Beacon inside wormhole in middle after level 1 to buy some mine drops for everyone. Cost 2000$  \n \n Buy more lifes using the 'BuyLife' section, 1 life cost 5000$, use (B) Beacon inside the red spot."
+End
+
+SCRIPT:0-MARV-INFO
+"This is your Custom Upgrade Area, Commander! \n \n To upgrade the Custom Towers (Supertanks), use beacon (B) ability in the little color boxes. \n \n  You can upgrade Max 10 times! \n \n \n These unit towers will be availible later in the game."
+End
+
+SCRIPT:0-Kills-p1
+"P1 kills:"
+End
+
+SCRIPT:0-Kills-p2
+"P2 kills:"
+End
+
+SCRIPT:0-Kills-p3
+"P3 kills:"
+End
+
+SCRIPT:0-Kills-p4
+"P4 kills:"
+End
+
+SCRIPT:0-Level
+"Level: 60 /"
+End
+
+SCRIPT:0-Lifes
+"LIFES:"
+End
+
+SCRIPT:0-LEVEL-BOSS
+"BOSS LEVEL!"
+End
+
+SCRIPT:0-LEVEL-INVIS
+"INVISIBLE LEVEL!"
+End
+
+SCRIPT:0-LEVEL-SPECIAL
+"SPECIAL LEVEL!"
+End
+
+SCRIPT:0-LEVEL-MONEY
+"MONEY LEVEL!"
+End
+
+SCRIPT:0-MARVVVVVVVVVVVVVVV
+"MARV ACTIVATED!!!"
+End
+
+SCRIPT:0-MARV-UPUP
+"MARV UPGRADED"
+End
+
+SCRIPT:0-HEXA-UPUP
+"HEXA UPGRADED"
+End
+
+SCRIPT:0-REDEEMER-UPUP
+"REDEEMER UPGRADED"
+End
+
+SCRIPT:0-HEXAAAAAAAAAAAAAAA
+"HEXA ACTIVATED!!!"
+End
+
+SCRIPT:0-MIDDLEBUY-MINES
+"Someone bought some minedrops for the middle area! Good teamwork! :D"
+End
+
+SCRIPT:0-REDEEMERRRRRRRRRRRRRRR
+"REDEEMER ACTIVATED!!!"
+End
+
+SCRIPT:0-SET-SEND
+"SEND MONEY MODE SET!"
+End
+
+SCRIPT:0-SET-KICK
+"KICK MODE SET!"
+End
+
+SCRIPT:0-VOTED-KICK
+"KICK VOTE SENT!"
+End
+
+SCRIPT:0-RANDOM-BONUS-01
+"BONUS: Kill the corruptor to get some tiberium troopers at your side! :D"
+End
+
+SCRIPT:0-OUTRO-END
+"You have completed the TD, COMMANDER. \n \n \n The game will finish after this little credit scene. \n \n I hope you enjoyed this map and I hope you will continue playing KW in the future to come ;) \n Thanks again to CNC-Online, EA and online players who keep this game alive :D \n \n If you don't already have my Final Map Pack downloaded, you can always download it at: \n \n www.moddb.com \n \n \n Now enjoy your day, Commander! You're always welcome back to play the map :D"
+End

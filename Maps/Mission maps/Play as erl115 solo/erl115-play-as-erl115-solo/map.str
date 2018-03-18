@@ -1,0 +1,11 @@
+SCRIPT:0-WELCOME
+"Welcome to 'Play as erl115' :D \n \n Press 'Q' to select erl115 (your unit), and press CTRL + S to use your jump power. :D \n \n Your goal is to blow up the Construction Yard at the other side of the map. Can you do it?.... \n \n Good luck to you, Commander! ^^"
+End
+
+SCRIPT:0-KILLS
+"erl115's kills:"
+End
+
+SCRIPT:0-message1
+"You need 50 kills to pass this area!!!"
+End

@@ -1,0 +1,19 @@
+SCRIPT:0-mission1
+"Find and destroy the NOD boats in the area! Watch out for the guards! Good luck! (Your units respawn automatically at the start point when they die)"
+End
+
+SCRIPT:0-mission2
+"Build up your base here and defend from dessert attacks, build up some army and destroy the radar buildings to get to the next level!"
+End
+
+SCRIPT:0-mission3
+"Great! Now continue building your base and continue defending! Soon you will get help!! We will send you some heavy tanks to aid you against "Commander-Lame"! Please hold on!"
+End
+
+SCRIPT:0-mission4
+"Great job holding them back! Here you go.. use these tanks and kill the enemy building in the bottom right area!!! This is the last mission!"
+End
+
+SCRIPT:0-nukes
+"Dangerous Area!! BEWARE!!"
+End

@@ -1,0 +1,55 @@
+SCRIPT:0-TIMER
+"It's WAR in:"
+End
+
+SCRIPT:0-INFO
+"You can't attack the other side before the timer has expired! You CAN'T fly over the ocean area, that is not allowed!!! Use the middle crossover! You get money for each unit kill."
+End
+
+SCRIPT:0-CHOOSE-TIME
+"How many minutes do you want before WAR? Vote for minutes with the BEACON (B) ability, place the beacon on your choice."
+End
+
+SCRIPT:0-CHOOSE-TIME2
+"Do you want to allow Super weapons? Vote for yes or no with the BEACON (B) ability, place the beacon on your choice."
+End
+
+SCRIPT:0-VOTE5MIN
+"Votes for 5min:"
+End
+
+SCRIPT:0-VOTE10MIN
+"Votes for 10min:"
+End
+
+SCRIPT:0-VOTE1MIN
+"Votes for 1min:"
+End
+
+SCRIPT:0-VOTE-SW-YES
+"Votes for SW On:"
+End
+
+SCRIPT:0-VOTE-SW-NO
+"Votes for SW Off:"
+End
+
+SCRIPT:0-5min-won
+"You have 5min peace! Timer is set!"
+End
+
+SCRIPT:0-10min-won
+"You have 10min peace! Timer is set!"
+End
+
+SCRIPT:0-1min-won
+"You have 1min peace! Timer is set!"
+End
+
+SCRIPT:0-SWisON
+"Super weapons are activated!"
+End
+
+SCRIPT:0-SWisOFF
+"Super weapons are deactivated!"
+End

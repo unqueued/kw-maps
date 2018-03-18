@@ -1,0 +1,11 @@
+SCRIPT:0-WELCOME
+"Welcome :D \n \n Your goal is to blow up the Construction Yard at the other side of the map. \n \n You will gain the jump power later in game. \n \n Use 'Q' to select your unit. :) \n \n \n \n Made by erl115."
+End
+
+SCRIPT:0-KILLS
+"Total kills:"
+End
+
+SCRIPT:0-BASE-HEALTH
+"Base health: %"
+End

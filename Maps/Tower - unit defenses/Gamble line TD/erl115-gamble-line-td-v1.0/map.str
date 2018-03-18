@@ -1,0 +1,59 @@
+SCRIPT:0-WELCOME
+"Welcome to LINE TD (by erl115) :D \n \n Start building your shit, Commander! :D \n Your goal is to defend the road, and try to kill all the enemies before they pass through the wormhole! \n Have fun, and good luck to you all! ^^ \n \n TIP: You can use handicap on AI for this map to make it easier! ;) \n \n TIP 2: Some waves attack, and some don't. I won't tell you more. \n \n TIP 3: New waves does more damage if you leak, in other words, leaking waves reduces your lifes much more later in the game!"
+End
+
+SCRIPT:0-ASYNC
+"NOD anti-air is disabled (known to cause desync/async), and I would recommend not to upgrade the NOD quad turrets (known to cause desync/async)"
+End
+
+SCRIPT:0-GAMBLE
+"If you wanna gamble, use Beacon (B) ability on these red spots! You will risk losing money, or you can win money or something! :D \n \n Each tree means 1000$ is needed on hand to gamble! Example: 5 trees = 5000$ \n \n Gamble on your own risk!! The green V means not much risky, the black X means risky! And the white symbol means it can both be risky or not... GL gambler!"
+End
+
+SCRIPT:0-MORE-LIFE
+"If you want more life, you must destroy the bonus units that will spawn randomly. This can be any kind of unit! If you can kill the unit before it disappears, you will get extra lifes, and you will be notified:)"
+End
+
+SCRIPT:0-XXXTRA-LIFE-ALL
+"You got 100 extra lifes!!! :D"
+End
+
+SCRIPT:0-LIFES
+"Lifes left:"
+End
+
+SCRIPT:0-Yellow-kills
+"Yellow player kills:"
+End
+
+SCRIPT:0-Red-kills
+"Red player kills:"
+End
+
+SCRIPT:0-Blue-kills
+"Blue player kills:"
+End
+
+SCRIPT:0-Green-kills
+"Green player kills:"
+End
+
+SCRIPT:0-Pink-kills
+"Pink player kills:"
+End
+
+SCRIPT:0-Purple-kills
+"Purple player kills:"
+End
+
+SCRIPT:0-lost-life-shit
+"MothaFU**A!"
+End
+
+SCRIPT:0-maptime
+"Map time:"
+End
+
+SCRIPT:0-CREDIT-END
+"You completed the map!!!! Well done COMMANDER! ^^ \n \n Proudly made by erl115 - www.erl115.net    =)"
+End

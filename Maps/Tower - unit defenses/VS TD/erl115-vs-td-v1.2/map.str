@@ -1,0 +1,91 @@
+SCRIPT:0-Welcome
+"Welcome to VS TD by erl115 :D \n \n Level 1 starts in 60 seconds. Play this map versus each other (no AI) or as a team (use AI). Use Power Signature Scan to display info again later in the game. \n \n \n www.erl115.net"
+End
+
+SCRIPT:0-info1
+"You have a secure area inside the coloured land you start on, stay there to avoid being targeted by other players or creep waves. \n \n All players can build air - max 3 hammerheads at the same time! \n \n If you lose your Airfield, it's lost forever... \n \n If you lose your Scrin MCV, you will get a new one! But you will lose 3000$ :O \n \n Everyone has 50 lifes, and thats it! \n \n You cannot use handicap for this map, difficulty is static, you can't change it. \n \n There is only one way to get a hold of engineers, but you must find that out yourself! ^^ \n \n \n Enjoy the map!"
+End
+
+SCRIPT:0-Life1
+"P1 Lifes:"
+End
+
+SCRIPT:0-Life2
+"P2 Lifes:"
+End
+
+SCRIPT:0-Life3
+"P3 Lifes:"
+End
+
+SCRIPT:0-LEVEL
+"Current level:"
+End
+
+SCRIPT:0-Life4
+"P4 Lifes:"
+End
+
+SCRIPT:0-maptime
+"Maptime:"
+End
+
+SCRIPT:0-Upgrade-ap-ammo
+"Kill this boss to get the AP-Ammo Upgrade!"
+End
+
+SCRIPT:0-Upgrade-temporal-wormhole
+"Kill this boss to get the Temporal Wormhole Power!"
+End
+
+SCRIPT:0-Upgrade-air-power
+"Kill this INVIS boss to get the anti air upgrade for GDI!"
+End
+
+SCRIPT:0-Upgrade-new-towers
+"Kill this boss to enable more powerful towers!"
+End
+
+SCRIPT:0-switch-long-waves
+"Switching to longer and harder waves! Prepare yourself!"
+End
+
+SCRIPT:0-upgrade-scrin-aa
+"Kill this boss to upgrade your Scrin Anti Air!"
+End
+
+SCRIPT:0-get-ready-harder-waves-units
+"Get ready for harder waves and units!"
+End
+
+SCRIPT:0-kill-boss-secret-upgrade
+"Kill this boss to get a secret upgrade!"
+End
+
+SCRIPT:0-kill-boss-get-money
+"Kill this boss to get money!!"
+End
+
+SCRIPT:0-final-boss-waves
+"Prepare for the final waves and the final boss!!! \n \n You also have all upgrades now!"
+End
+
+SCRIPT:0-remove-protect-area-all-players
+"You are no longer protected in your secure area!! Be careful from now on!"
+End
+
+SCRIPT:0-Railgun-upgrade
+"Kill the avatar to get the Railgun Upgrade for GDI!"
+End
+
+SCRIPT:0-unlimited-hammerheads
+"Kill EVERY Hammerhead in this wave to be able to build unlimited Hammerheads! :D"
+End
+
+SCRIPT:0-get-space-command-uplink
+"Kill this boss wave to get the Space Command Uplink Powers!"
+End
+
+SCRIPT:0-kill-boss-get-10lifes
+"Kill this boss wave to get 10 lifes!"
+End

@@ -1,0 +1,35 @@
+SCRIPT:0-start
+"Welcome to Dessert Mission! Use your NOD Commander (if she dies, she will respawn!) to finish the level and find other ally units. Destroy the building showing on the map in the left bottom before the timer runs out, or you will lose."
+End
+
+SCRIPT:0-aliens
+"Mission will fail in:"
+End
+
+SCRIPT:0-cam1
+"You found some allies! Rescue them, to do that destroy the Stasis!"
+End
+
+SCRIPT:0-cam2
+"Something seems wrong here... what is blocking the way?"
+End
+
+SCRIPT:0-cam3
+"Ohh!? You got some engineers! Yey! :D"
+End
+
+SCRIPT:0-cam4
+"Don't try to kill the Hexapod! He is immortal, try to sneak past him and destroy the Signal transmitter!"
+End
+
+SCRIPT:0-cam5
+"Ohh... a big boat have stranded here! Bomb it to get past it!"
+End
+
+SCRIPT:0-cam6
+"Beware of the super units! They re-spawn every 10 sec!!! They can't die."
+End
+
+SCRIPT:0-cam7
+"I smell something dangerous here......."
+End

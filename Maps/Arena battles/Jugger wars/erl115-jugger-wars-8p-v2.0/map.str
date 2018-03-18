@@ -1,0 +1,15 @@
+SCRIPT:0-WELCOME
+"Welcome to Sea Wars by erl115! Your goal is to defeat your enemy on the other side by destroying their juggernauts! When you lose your own juggernaut you will lose one life for you side/team, then a new juggernaut will respawn. If one side/team loses their juggernauts more than 20 times, they will lose! So protect your own juggernauts and destroy the others!! Good luck! :)"
+End
+
+SCRIPT:0-RULES
+"1. You'll get 50$ each sec!                                                                       2. Your only goal is to kill the juggernauts on the other side!                                    3. Each side/team has 20 re-spawns (lives)                                                         4. When a juggernaut respawns they are immortal for some secs!                                     5. If you destroy the bridges, they can't be fixed again!                                                                                                "
+End
+
+SCRIPT:0-LEFT-COUNTERS
+"Left side deaths:"
+End
+
+SCRIPT:0-RIGHT-COUNTERS
+"Right side deaths:"
+End

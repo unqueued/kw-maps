@@ -1,0 +1,11 @@
+SCRIPT:0-Welcome
+"Welcome to the map 'Last Stand Defense' v1.2 (easier) by erl115. \n \n Choose your side (GDI or NOD) and start planning your defense strategy. \n This is a survival of defense, if you can survive until the end you will complete the map. \n \n Good luck Commander!"
+End
+
+SCRIPT:0-Welcome2
+"Be careful when you send units inside AI Area, Commander. The AI will get benefits if you have units inside his area!"
+End
+
+SCRIPT:0-WIN-TIME
+"You will win in:"
+End

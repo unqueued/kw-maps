@@ -1,0 +1,11 @@
+SCRIPT:0-Welcome
+"Welcome to 'Battle of Kings' by erl115 \n \n \n www.erl115.net"
+End
+
+SCRIPT:0-Info
+"You have a building where you start, this is your Castle --> If your Castle is destroyed, you will lose. \n \n \n You get some reinforcements at your Castle now and then. \n \n \n The more kills you do, the more random units you will get at your Castle (and some income). \n Find money crates and other stuff on the map, use your support powers wisely \n \n \n \n Let the battle of Kings begin! :D Good luck!"
+End
+
+SCRIPT:0-totaleKILLS
+"Warriors killed in action:"
+End

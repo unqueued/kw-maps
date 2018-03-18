@@ -1,0 +1,19 @@
+SCRIPT:0-ZOMBIES-KILLED
+"Zombies killed:"
+End
+
+SCRIPT:0-INFO
+"Your only mission is to survive, and DEFEND the building in the middle! Every kill is income, the more kills the more money!! You have little time, so set up your defences, Commander!! :D"
+End
+
+SCRIPT:0-NEW-LEVEL-IN
+"Next level in:"
+End
+
+SCRIPT:0-SNIPERS
+"Snipers allowed!!"
+End
+
+SCRIPT:0-COMMANDOS
+"Commandos allowed!!"
+End

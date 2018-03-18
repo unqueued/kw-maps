@@ -1,0 +1,27 @@
+SCRIPT:0-MISSION-01
+"MISSION-01: Kill the NOD commander near the boats!"
+End
+
+SCRIPT:0-MISSION-02
+"MISSION-02: Now destroy the civilian building at the top left corner!"
+End
+
+SCRIPT:0-MISSION-03
+"MISSION-03: Now kill the guardians and destroy the prime tempel of NOD in the right top!"
+End
+
+SCRIPT:0-MISSION-04
+"MISSION-04: Now destroy the boat located near the road and prepare for battle!"
+End
+
+SCRIPT:0-MISSION-05
+"MISSION-05: Now survive in 5 minutes! Don't lose your watch tower!! \n If you do, it's lost!"
+End
+
+SCRIPT:0-MISSION-05-SURVIVE
+"Survive in:"
+End
+
+SCRIPT:0-WELCOME
+"Welcome to erl115's little mission map: A different task! :D \n \n Just follow the mission briefs and DONT LOSE YOUR WATCH TOWER!!! \n \n \n have fun ^^ Made by erl115. \n \n \n \n \n www.erl115.net"
+End

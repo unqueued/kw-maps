@@ -1,0 +1,11 @@
+SCRIPT:0-WELCOME
+"Original map design by Predatore \n \n Updated map design and scripts by erl115 \n \n \n Enjoy!"
+End
+
+SCRIPT:0-LIFES
+"LIFES:"
+End
+
+SCRIPT:0-FINAL
+"Final wave! These units attack!!!"
+End

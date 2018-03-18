@@ -1,0 +1,11 @@
+SCRIPT:0-WELCOME
+"Welcome Commanders! \n This map has been edited by erl115 into a Tank Mission. \n Use your BEACON ability (B) to choose your tank!!! \n \n You get money each kill etc. \n \n \n Map design by Predatore \n Map scripting by erl115"
+End
+
+SCRIPT:0-WELCOME2
+"Spawn a LIGHTNING SPIKE here to gamble! :D \n You can win units or money, but you can also lose money and more :O Good luck in your gambling, Commander!"
+End
+
+SCRIPT:0-MISSION1
+"Destroy this structure to remove the WALL at the bridge!"
+End

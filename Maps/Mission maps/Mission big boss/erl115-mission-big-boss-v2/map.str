@@ -1,0 +1,91 @@
+SCRIPT:0-WELCOME
+"Welcome to erl115's FINAL MAP! :D \n \n Remember to choose 'start money' in game options before starting the map, and set the 'AI Handicap' if it's too hard ^^"
+End
+
+SCRIPT:0-ATTACKERS1
+"Attackers starts in:"
+End
+
+SCRIPT:0-BRIDGE1
+"To remove the Bridge Wall, kill the spy hiding in the village!"
+End
+
+SCRIPT:0-BRIDGE11
+"You killed the spy! But what is happening..:O \n He is turning into a tank!?"
+End
+
+SCRIPT:0-NIGHT
+"The night is closing in!"
+End
+
+SCRIPT:0-DAY
+"The sun is rising!"
+End
+
+SCRIPT:0-MAPTIME
+"Map time:"
+End
+
+SCRIPT:0-SKIP-INTRO
+"Skip intro? If yes, use (B) Beacon ability on the black spot now!"
+End
+
+SCRIPT:0-SKIP-INTRO-VOTES
+"Intro bypassed!"
+End
+
+SCRIPT:0-LS-NEW-LEVEL
+"New Attackers Incoming!"
+End
+
+SCRIPT:0-INTRO1-BUILD UNITS
+"This is where you will build your units, Commander! :)"
+End
+
+SCRIPT:0-INTRO2-BUY ENGINNERS
+"Here you can trade engineers for other units needed to buy better tanks and more! \n \n To trade your units, look at the arrow to the left inside the wall. The arrow indicates how many engineers you will need to sacriface for the other one!"
+End
+
+SCRIPT:0-INTRO3-BUY SUPER
+"Here you can trade for super tanks or harvester! Just send in your engineers if you want to buy one of these. You can buy as many as you wish! :D"
+End
+
+SCRIPT:0-INTRO4-SPECIAL
+"If you send in your engineers here, you will spin the lottery and you can win random goods! :D \n \n This is where you can win your Ultimate Super Tank!"
+End
+
+SCRIPT:0-INTRO5-UPGRADES
+"Here you can buy upgrades! ;D"
+End
+
+SCRIPT:0-INTRO6-LOSE STORM COLOUM
+"DON'T LOSE THIS STORM COLUMN! IF YOU LOSE IT, YOU WILL DIE!!!"
+End
+
+SCRIPT:0-INTRO7-TD
+"This is the TD section! Some enemy units will spawn randomly and try to attack the Castle! Build some defence and keep the Castle alive!"
+End
+
+SCRIPT:0-INTRO8-TD CASTLE
+"IF THIS BUILDING(CASTLE) IS DESTROYED, YOU WILL ALL LOSE!!"
+End
+
+SCRIPT:0-CAREFUL-OR-LOSE-GAME-CASTLE
+"Careful now, Commander! Your Castle has low health!!!"
+End
+
+SCRIPT:0-CAREFUL-OR-LOSE-GAME-STORM
+"Careful now, Commander! Someone is about to lose their Storm column! Repair it!"
+End
+
+SCRIPT:0-INTRO9-MINI-GAMES
+"This is the mini games section, Commander! Play it and win extra money! :D \n \n DONT SEND IN ANY UNITS HERE, BECAUSE THEY WILL DIE! :P"
+End
+
+SCRIPT:0-NOT-ALLOW-UNITS-TD-ROAD
+"Get your units out of the TD Path!!!"
+End
+
+SCRIPT:0-LASTBOSS-IMMORTAL
+"Last boss is attacked by Tripods! He will be immortal until you remove them!"
+End

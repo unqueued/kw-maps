@@ -1,0 +1,15 @@
+SCRIPT:0-WELCOME
+"Mountain Def v1.0   \n \n by erl115 \n \n www.moddb.com/members/erl1151  \n \n \n DON'T BUILD OUTSIDE THE START POSITION AREA, KEEP YOUR STRUCTURES AT START POSITION! \n \n Have fun :)"
+End
+
+SCRIPT:0-KILLS
+"Total kills:"
+End
+
+SCRIPT:0-GAMESTART
+"Game starts in:"
+End
+
+SCRIPT:0-MAPTIME
+"Maptime:"
+End

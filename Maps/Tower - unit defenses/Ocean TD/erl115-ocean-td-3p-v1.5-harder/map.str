@@ -1,0 +1,107 @@
+SCRIPT:0-WELCOME
+"Welcome Commander! You only get money per unit kill. Use player 4 (AI) handicap if the map is too hard (applies to level 16 and over)."
+End
+
+SCRIPT:0-BUG
+"Use Tiberium Vibration Scan to buy a beam cannon! This will cost you 300$ You can only have 3 beam cannons at a time. :)"
+End
+
+SCRIPT:0-LEVELS-INFO-SILOS
+"***************** Air levels; 7,10,13,16,18,20,25 *****************                                   ***************** Invis levels; 8,12,14,15,19 *****************                                 ***************** Boss levels; 11,20,25 *****************"
+End
+
+SCRIPT:0-SILOS-START-INFO
+"If you need info on the levels (air, invis or boss), just use the Power Signature Scan. Won't cost you anything;)"
+End
+
+SCRIPT:0-UPGRADES
+"Here you can buy upgrades for your towers! ^^"
+End
+
+SCRIPT:0-Buy-Beam
+"Map is made by erl115!;) www.erl115.net"
+End
+
+SCRIPT:0-WELCOME-lose-portal
+"This is the death portal... Leaked units come to hell from this point. Watch your lives!!"
+End
+
+SCRIPT:0-damage-token
+"Shit! :O"
+End
+
+SCRIPT:0-BOSS-LEVELS
+"Boss level incoming!"
+End
+
+SCRIPT:0-LAST-LEVEL
+"Last level!!!!!"
+End
+
+SCRIPT:0-Counter-kills-p1
+"P1 kills:"
+End
+
+SCRIPT:0-Counter-kills-p2
+"P2 kills:"
+End
+
+SCRIPT:0-Counter-kills-p3
+"P3 kills:"
+End
+
+SCRIPT:0-Counter-gold-p1
+"P1 money:"
+End
+
+SCRIPT:0-Counter-gold-p2
+"P2 money:"
+End
+
+SCRIPT:0-Counter-gold-p3
+"P3 money:"
+End
+
+SCRIPT:0-MAP-TIME
+"Map time:"
+End
+
+SCRIPT:0-LOSEHOUSE-LIFE-LEFT
+"Lives left:"
+End
+
+SCRIPT:0-MONEY-EACH-UNIT-NOW
+"Kills worth: $"
+End
+
+SCRIPT:0-WAVE-NUMBER
+"Level: 25/"
+End
+
+SCRIPT:0-UNTIL-NEXT-LEVEL
+"Next level in:"
+End
+
+SCRIPT:0-KILLS-OVER-1000-BONUS
+"Someone got 4000 kills and is at the time RICH! So.. fuck them xD"
+End
+
+SCRIPT:0-credits1
+"You have completed the map! :D Congratulations Commander!! :D"
+End
+
+SCRIPT:0-credits11
+"This is made by erl115 - Download new and other maps at www.erl115.net ^^"
+End
+
+SCRIPT:0-credits111
+"Feel free to edit the map, just credit erl115 as original builder, thanks! ;)"
+End
+
+SCRIPT:0-credits1111
+"Thanks to CNC-Online for the free servers! And special thanks goes to online players who helped me test the map! ^^"
+End
+
+SCRIPT:0-credits11111
+"You have a further good day, Commander;) Kane be with you xD"
+End

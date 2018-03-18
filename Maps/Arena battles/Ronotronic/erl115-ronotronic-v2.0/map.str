@@ -1,0 +1,35 @@
+SCRIPT:0-WELCOME
+"Welcome to Ronotronic v2 by erll15. \n \n \n Everyone will get random units, and someone may have more luck than others.. \n \n \n \n You can also get support powers by luck! Have fun! :D"
+End
+
+SCRIPT:0-player1
+"Player1 Deaths:"
+End
+
+SCRIPT:0-player2
+"Player2 Deaths:"
+End
+
+SCRIPT:0-player3
+"Player3 Deaths:"
+End
+
+SCRIPT:0-player4
+"Player4 Deaths:"
+End
+
+SCRIPT:0-player5
+"Player5 Deaths:"
+End
+
+SCRIPT:0-player6
+"Player6 Deaths:"
+End
+
+SCRIPT:0-player7
+"Player7 Deaths:"
+End
+
+SCRIPT:0-player8
+"Player8 Deaths:"
+End

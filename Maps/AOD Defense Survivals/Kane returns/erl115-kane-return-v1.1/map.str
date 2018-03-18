@@ -1,0 +1,27 @@
+SCRIPT:0-Welcome
+"Welcome to 'Kane's Return!' by erl115 =) \n \n \n www.erl115.net"
+End
+
+SCRIPT:0-Mission1
+"You must kill 200 enemies from Kane before the Barriers are removed, then you will be able to reach his base."
+End
+
+SCRIPT:0-Mission2
+"You have killed over 200 enemies! The barriers are removed, now destroy Kane's Temple Prime!"
+End
+
+SCRIPT:0-Mission3-bonus
+"GOOD WORK COMMANDER! You destroyed the Temple Prime :D \n \n \n ......but wait... what is happening?...."
+End
+
+SCRIPT:0-Mission3-bonus2
+"OH SHIT! KANE IS STILL ALIVE :O DESTROY HIS REDEEMER AT ALL COST!"
+End
+
+SCRIPT:0-Total-kills
+"Enemies killed:"
+End
+
+SCRIPT:0-How-to-kill-prime
+"The Temple Prime is protected by something! Maybe you must destroy the the core(s) of the Barrier? Look around and destroy the core(s)!"
+End

@@ -1,0 +1,11 @@
+SCRIPT:0-WELCOME
+"Welcome to Tank Arena Def by erl115!                                                             ------------------------------------------------------------------------------------------------------                                                                                                   Your goal is to defend the NOD-Weapons-Lab from the waves! If both sides/teams survive and defend from all the waves, the walls will be removed and you will have to fight each other and destroy each others NOD-Lab's to win!   -------------------------------------------------------------------------------------------------------                                                                                                    If only one side plays (4 players and same team), the map will work as a survival;) You will then win after all the waves are killed;)"
+End
+
+SCRIPT:0-TOP-HOUSE
+"TOP NOD Lab Health: %"
+End
+
+SCRIPT:0-BOT-HOUSE
+"BOT NOD Lab Health: %"
+End

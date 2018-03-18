@@ -1,0 +1,19 @@
+SCRIPT:0-WELCOME
+"Welcome to COMRAD ART OF DEFENSE \n \n \n RULES: \n \n 1. YOU MUST BUILD NOW BEFORE GAME STARTS, YOU CANNOT BUILD STRUCTURES LATER. \n USE BEACON [B] ON THE ROAD/PATH WHEN YOU ARE READY - AND DON'T BUILD IN THE PATH \n \n 2. Some powers/units may be disabled to balance map, and you can't sell anything - so use your brain! Tier 3 units will be available at level 10. \n \n  3. Kills give 2500$. Also 5$ every second. \n \n 4. Don't attack other players or go into their area, you can play FFA or TEAM. But don't go to other players area! \n \n 5. You only have 1 life!  1 leak = Defeat! \n \n 6. You can't use handicap on AI. \n \n FIRST PLAYER TO KILL THE FINAL WAVE WILL WIN! \n Good luck and have fun! :D"
+End
+
+SCRIPT:0-WELCOME2
+"INFO: Map was made by erl115 :) \n \n \n COMRAD ART OF DEFENSE \n \n \n Cheers! ^^"
+End
+
+SCRIPT:0-PLAYER1-TIER3
+"Player 1 can now build tier 3 units."
+End
+
+SCRIPT:0-PLAYER2-TIER3
+"Player 2 can now build tier 3 units."
+End
+
+SCRIPT:0-PLAYER3-TIER3
+"Player 3 can now build tier 3 units."
+End

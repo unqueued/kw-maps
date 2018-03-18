@@ -1,0 +1,35 @@
+SCRIPT:0-WELCOME
+"Zytek's wrath starts in:"
+End
+
+SCRIPT:0-WINNER-END
+"Congratulations COMMANDER(S)!!! Well done! :D You have completed the bonus waves and the original levels! Good work! ;) Find more maps at erl115.net! I hope you had a good time, commander! :D You will win soon..."
+End
+
+SCRIPT:0-NEXT-LEVEL
+"Next level in 30 secs!"
+End
+
+SCRIPT:0-Boss
+"Bosses are on their way! Defend now!"
+End
+
+SCRIPT:0-LEAKED
+"Someone passed the road! Protect and block the road, they must not pass!!! Or you will die!"
+End
+
+SCRIPT:0-Last boss
+"Zytek, Max and Governor is on their way!!! DEFEND AT ALL COST!"
+End
+
+SCRIPT:0-Welcome1
+"DO NOT LET THE ENEMY GET PAST YOUR BASE (The Road)! Build up an army and defend the road. Beware that some technologies or buildings may be disabled until last level/bonus levels. Map made by erl115."
+End
+
+SCRIPT:0-WelcomeEND
+"Good work! Now choose between destroying the left or the right alien tower: Left tower = win, Right tower = more levels and waves! Can you do it? Make your choice! And btw, emp and other units/abilities are now enabled;)"
+End
+
+SCRIPT:0-WELCOME-SURVIVE
+"SURVIVE UNTIL:"
+End

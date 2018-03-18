@@ -1,0 +1,40 @@
+SCRIPT:0-WELCOME
+"Welcome to SURVIVE OR DIE! v2 Normal by erl115 :D \n \n Your only goal is to survive until the end. \n When the Enemy Constructuon Yard is targetable, destroy the enemy base to win!"
+End
+
+SCRIPT:0-p1kills
+"P1 Kills:"
+End
+
+SCRIPT:0-p2kills
+"P2 Kills:"
+End
+
+SCRIPT:0-p3kills
+"P3 Kills:"
+End
+
+SCRIPT:0-p4kills
+"P4 Kills:"
+End
+
+SCRIPT:0-kills-bonus-100
+"Someone got 100 kills! 2500$ for them :D"
+End
+
+SCRIPT:0-kills-bonus-250
+"Someone got 250 kills! 4000$ for them :D"
+End
+
+SCRIPT:0-kills-bonus-750
+"Someone got 750 kills! 10000$ for them :D"
+End
+
+SCRIPT:0-kills-bonus-1500
+"Someone got 1500 kills! 25000$ for them :D"
+End
+
+SCRIPT:0-END-HOUSE
+"Destroy the enemy Base or Construction Yard now to win the game! This is the last wave!!!"
+End
+
