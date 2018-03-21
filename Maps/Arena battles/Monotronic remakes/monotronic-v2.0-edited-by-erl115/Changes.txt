@@ -1,8 +1,0 @@
-v2 Changes by erl115
-
-Less support power!
-You choose the starting cash in the game menu, you won't get any more income ingame.
-Terrain fixed and border shroud removed.
-Moved the units closer to the map, will reduce lag best.
-Added and fixed some scripts.
-Added superunits in the end for more fun!

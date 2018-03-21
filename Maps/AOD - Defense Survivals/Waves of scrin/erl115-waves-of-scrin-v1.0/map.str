@@ -1,7 +1,0 @@
-SCRIPT:0-WELCOME
-"Welcome to Waves of Scrin! by erl115! \n \n Build some defence quick!!!! \n \n \n Your goal is to stay alive and try to push back the armys of the Scrin! When you are able to push them back, then you must destroy the DRONE to Win! :D Don't lose your Defensive Turrets or you'll die! \n \n Good luck, Commander! \n \n \n TIP: AI handicap can be used on this map! :)"
-End
-
-SCRIPT:0-AREA-NOT
-"Someone has (air) units in the mountains area!!! Get em back quick!!!!!!!!!"
-End
