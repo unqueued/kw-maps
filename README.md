@@ -2,7 +2,7 @@
 ### Kane's Wrath Custom Maps by Kirasaitru (past erl115)
 
 All my past and present custom maps, or maps in progress, will be uploaded here for people to download, share, edit or play in-game/multiplayer.
-If edited, please credit me (Kirasaitru) with a link to my [GitHub](https://github.com/Kirasaitru/kw-maps) site and my [YouTube](https://www.youtube.com/channel/UCASgf1IsH99o_e-JU0FY-OA) channel.
+If edited, please give credit with a link to my [GitHub](https://github.com/Kirasaitru/kw-maps) site and my [YouTube](https://www.youtube.com/channel/UCASgf1IsH99o_e-JU0FY-OA) channel.
 
 To edit a map you will need the Worldbuilder. To edit a radar image, you will need an image software.
 To install a custom map, unzip/extract and paste the map folder into the correct path in Windows:
