@@ -1,3 +1,3 @@
-### SOLO Maps
+### Solo Maps - Singleplayer only
 
-Solo maps will only appear in Skirmish --> Custom maps, not Skirmish game.
+Solo maps will ONLY appear in Skirmish --> Custom maps, not "New skirmish".
