@@ -5,7 +5,7 @@ You may find tutorial videos on how to create custom maps in my [YouTube](https:
 
 In this section you can download the Worldbuilder setup file, but you may need to download the vcredist addon and the regedit file also.
 If you encounter any error at all when launching the Worldbuilder setup for the first time, run the "regedit" file with admin rights and click "yes". Right click and choose "run as admin".
-This will add the correct address path of Kane's Wrath installation directory into the Windows registry. It's actually just a "\" at the end of the path that is needed if you want to do this manually.
+This will add the correct address path of Kane's Wrath installation directory into the Windows registry. It's actually just a backslash \ at the end of the path that is needed if you want to do this manually.
 
 If you still encounter problems launching the Worldbuilder, install the "vcredist" setup file with admin rights. Unzip the file and run it. This is a addon downloaded from Microsoft which includes the needed files for Worldbuilder to work correctly.
 Also, remember that you need to download and install Kane's Wrath before running the Worldbuilder setup, I also recommend to start the game at least once before installing Worldbuilder.
