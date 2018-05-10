@@ -1,5 +1,5 @@
 # kw-maps
-### Kane's Wrath Custom Maps by Kirasaitru (past erl115)
+### Kane's Wrath Custom Maps by Kirasaitru
 
 All my past and present custom maps, or maps in progress, will be uploaded here for people to download, edit or play in-game/multiplayer. Some of the maps (the tank missions mostly, are created from original maps by others which are credited in the intro of the maps).
 
