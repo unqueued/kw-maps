@@ -19,7 +19,7 @@ One day in June 2018 I worked many hours making and testing a map in local skirm
 So after this episode (and this kind of shit has happened many times before!), I decided that this will be my final map for good!! 
 I'm so tired of this old game which EA never patched to fix these shitty desyncs! I'm wasting my time trying to create new maps to be played online when there exists bugs and desyncs like this shit. This map, for example, had to be converted to a singleplayer map to work... It's so stupid.
 So, this will be my last edit on any map ever in Kane's Wrath. It was fun while it lasted :)
-You can alwyas download and enjoy my past maps which work withouts desyncs.
+You can always download and enjoy my past maps which work withouts desyncs.
 Cheers!
 
 ### Some useful links
