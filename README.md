@@ -30,3 +30,5 @@ Cheers!
 * [VCredist 2005 x86](https://www.microsoft.com/en-in/download/details.aspx?id=3387) - Microsoft Visual C++ 2005 Redistributable Package for the Worldbuilder. Install this package if you encounter an error when lauching the Worldbuilder.
 * [7-Zip](https://www.7-zip.org/) - Free software to unzip, or extract, the map files.
 * [Custom Maps/Tutorials](https://www.youtube.com/playlist?list=PLG-nemiRc1_pUJn8WQ85MwKuj352YgQu5) - Custom maps and tutorials by me.
+* [Donate Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HJ3Z6X7C2HSSQ) - If you like my work and enjoy the maps, please consider a donation. It would be appreciated :)
+* [Donate Ethereum](https://etherdonation.com/d?to=0xD3AEb55CFE4aAb2f7b12Fc7D76C856a71090d333) - If you like my work and enjoy the maps, please consider a donation. It would be appreciated :)
