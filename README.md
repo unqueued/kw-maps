@@ -32,3 +32,4 @@ Cheers!
 * [Custom Maps/Tutorials](https://www.youtube.com/playlist?list=PLG-nemiRc1_pUJn8WQ85MwKuj352YgQu5) - Custom maps and tutorials by me.
 * [Donate Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HJ3Z6X7C2HSSQ) - If you like my work and enjoy the maps, please consider a donation. It would be appreciated :)
 * [Donate Ethereum](https://etherdonation.com/d?to=0xD3AEb55CFE4aAb2f7b12Fc7D76C856a71090d333) - If you like my work and enjoy the maps, please consider a donation. It would be appreciated :)
+* [Custom maps Origin](http://www.cnclabs.com/FORUMS/CNC_POSTSM126363_mAPS-INSTALLATION--NOT-FOUND-MY-ANSWERS-YET.ASPX#POST126363) - How to install custom maps via Origin instead of Steam.
