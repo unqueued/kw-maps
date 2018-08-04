@@ -14,14 +14,6 @@ The "appdata" folder can be entered by tapping windows button, or Win+R, and typ
 NOTICE:
 To download a map, just browse the directories and click on the map you want to download. It should appear a "Download" button. You can also just "Clone/Download" the whole project with all the files and maps included, click the "clone or download" button in the upper right area of the project main page.
 
-### UPDATE June 2018
-One day in June 2018 I worked many hours making and testing a map in local skirmish, it worked fine and I was looking forward to play it with friends online. But KW just returnes desyncs all the time, update after update... I couldn't find out what the trigger to the problem was, most likely the trigger was the main script of the map (which has worked fine in other maps), but I can't remove it, because then I would have to rebuild the whole map :(
-So after this episode (and this kind of shit has happened many times before!), I decided that this will be my final map for good!! 
-I'm so tired of this old game which EA never patched to fix these shitty desyncs! I'm wasting my time trying to create new maps to be played online when there exists bugs and desyncs like this shit...
-So, this will be my last edit on any map ever in Kane's Wrath. It was fun while it lasted.
-You can always download and enjoy my past maps which work fine without desyncs.
-Cheers!
-
 ### Some useful links
 * [Irfanview](https://www.irfanview.com/) - Free image software for editing .tga files.
 * [C&C Online](https://cnc-online.net/en/) - Free multiplayer tool for playing Kane's Wrath with friends online.
