@@ -1,5 +1,5 @@
 # kw-maps
-### Kane's Wrath Custom Maps by Kirasaitru (erl115)
+### Kane's Wrath Custom Maps by Kirasaitru (past erl115)
 
 #### Update 06/08/2018: It was fun while it lasted, Commander! I have added my final tank mission which will be my final map for the time being, it may be my last. Breakthrough, MaulWars and the Final Tank Mission are my latest maps. Enjoy! ;)
 
@@ -28,4 +28,5 @@ To download a map, just browse the directories and click on the map you want to 
 * [Donate Ethereum](https://etherdonation.com/d?to=0xD3AEb55CFE4aAb2f7b12Fc7D76C856a71090d333) - If you like my work and enjoy the maps, please consider a donation. It would be appreciated :)
 * [Custom maps Origin](http://www.cnclabs.com/FORUMS/CNC_POSTSM126363_mAPS-INSTALLATION--NOT-FOUND-MY-ANSWERS-YET.ASPX#POST126363) - How to install custom maps via Origin instead of Steam.
 
+Watch my tutorials here:
 [![T1](https://i.ytimg.com/vi/Z_LQOt3CSAY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Z_LQOt3CSAY)
