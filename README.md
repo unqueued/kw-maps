@@ -1,7 +1,7 @@
 # kw-maps
 ### Kane's Wrath Custom Maps by Kirasaitru (past erl115)
 
-#### Update 06/08/2018: It was fun while it lasted, Commander! I have added my final tank mission which will be my final map for the time being, it may be my last. Breakthrough, MaulWars and the Final Tank Mission are my latest maps. Enjoy! ;)
+#### Update 24/08/2018: It was fun while it lasted, Commander! I have added my final tank mission which will be my final map ever. Breakthrough, MaulWars and the Final Tank Mission are my latest maps. Please don't ask me to edit or create more maps. Take a look at my tutorials on how to learn to create and edit maps yourself.
 
 All my past and present custom maps, or maps in progress, will be uploaded here for people to download, edit or play in-game/multiplayer. Some of the maps (the tank missions mostly, are created from original maps by others which are credited in the intro of the maps).
 
