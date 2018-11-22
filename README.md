@@ -1,7 +1,7 @@
 # kw-maps
-### Kane's Wrath Custom Maps by Kirasaitru (past erl115)
+### Kane's Wrath Custom Maps by erlNite (past erl115)
 
-#### Update 24/08/2018: It was fun while it lasted, Commander! I have added my final tank mission which will be my final map ever. Breakthrough, MaulWars and the Final Tank Mission are my latest maps. Please don't ask me to edit or create more maps. Take a look at my tutorials on how to learn to create and edit maps yourself.
+#### Update 24/08/2018: It was fun while it lasted, Commander! I have added my final tank mission which will be my final map ever. Breakthrough, MaulWars and the Final Tank Mission are my latest maps. Please don't ask me to edit or create more maps. Take a look at my tutorials on how to learn to create and edit maps yourself :)
 
 All my past and present custom maps, or maps in progress, will be uploaded here for people to download, edit or play in-game/multiplayer. Some of the maps (the tank missions mostly, are created from original maps by others which are credited in the intro of the maps).
 
@@ -27,6 +27,4 @@ To download a map, just browse the directories and click on the map you want to 
 * [Donate Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HJ3Z6X7C2HSSQ) - If you like my work and enjoy the maps, please consider a donation. It would be appreciated :)
 * [Donate Ethereum](https://etherdonation.com/d?to=0xD3AEb55CFE4aAb2f7b12Fc7D76C856a71090d333) - If you like my work and enjoy the maps, please consider a donation. It would be appreciated :)
 * [Custom maps Origin](http://www.cnclabs.com/FORUMS/CNC_POSTSM126363_mAPS-INSTALLATION--NOT-FOUND-MY-ANSWERS-YET.ASPX#POST126363) - How to install custom maps via Origin instead of Steam.
-
-Watch my tutorials here:
-[![T1](https://i.ytimg.com/vi/Z_LQOt3CSAY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Z_LQOt3CSAY)
+* [KW WB TUTORIAL Video](https://www.youtube.com/watch?v=Z_LQOt3CSAY) - Learn how to create maps yourself ;)
