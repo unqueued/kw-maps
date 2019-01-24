@@ -12,11 +12,13 @@ If my maps are edited, please give me some credits :)
 For people who want to edit or create a new custom map, take a look in the Worldbuilder section. Tutorial link can be found below.
 
 INSTALLATION OF A CUSTOM MAP:
+
 To install a custom map, unzip/extract and paste the map folder into the correct path in Windows:
 "USER/appdata/roaming/C&C Kanes Wrath/Maps"
 The "appdata" folder can be entered by tapping windows button, or Win+R, and type %appdata% - Hit enter.
 
 HOW TO DOWNLOAD A MAP:
+
 To download a map, just browse the directories and click on the map you want to download. It should appear a "Download" button. You can also just "Clone/Download" the whole project with all the files and maps included, click the "clone or download" button in the upper right area of the project main page. It's 30+ MB in size.
 
 ### Some useful links
