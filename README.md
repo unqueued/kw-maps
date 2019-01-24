@@ -1,20 +1,23 @@
 # kw-maps
-### Kane's Wrath Custom Maps by erlNite (past erl115)
+### Kane's Wrath Custom Maps by erlNite (past erl115 / kirasaitru)
 
-#### Update 24/08/2018: It was fun while it lasted, Commander! I have added my final tank mission which will be my final map ever. Breakthrough, MaulWars and the Final Tank Mission are my latest maps. Please don't ask me to edit or create more maps. Take a look at my tutorials on how to learn to create and edit maps yourself :)
+#### Update 24/01/2019: Please don't ask me to edit or create more maps. Take a look at my tutorials on how to learn to create and edit maps yourself :) I may add a Patreon link in the future, where people that want me to make new maps can Subscribe to my Patreon site if they want more maps.
 
-All my past and present custom maps, or maps in progress, will be uploaded here for people to download, edit or play in-game/multiplayer. Some of the maps (the tank missions mostly, are created from original maps by others which are credited in the intro of the maps).
+At this GitHub site you can find all my past and present custom maps, or maps in progress, and download, edit or play in-game/multiplayer. Some of the maps (the tank missions mostly) are created from original maps by others which are credited in the intro of the maps.
 
-If my maps are edited, please give credit with a link to either my [GitHub](https://github.com/Kirasaitru/kw-maps) site or my [YouTube](https://www.youtube.com/channel/UCASgf1IsH99o_e-JU0FY-OA) channel.
-For people who want to edit or create a custom map, take a look in the Worldbuilder section.
-You may find tutorial videos on how to create custom maps in my [YouTube](https://www.youtube.com/channel/UCASgf1IsH99o_e-JU0FY-OA) channel.
+Be aware that a few of my maps (especially recent ones), may have some desync issues when played online. To solve this, you must play the map solo in Skirmish mode. In other words, playing a map in solo/singleplayer mode will not cause any desyncs.
+Desyncs (and bugs generally) are the worst aspect of C&C3 Kane's Wrath Online, these are hard to detect when playing solo, and some times hard, but mostly time consuming to fix...
 
+If my maps are edited, please give me some credits :)
+For people who want to edit or create a new custom map, take a look in the Worldbuilder section. Tutorial link can be found below.
+
+INSTALLATION OF A CUSTOM MAP:
 To install a custom map, unzip/extract and paste the map folder into the correct path in Windows:
 "USER/appdata/roaming/C&C Kanes Wrath/Maps"
-The "appdata" folder can be entered by tapping windows button, or Win+R, and type %appdata%
+The "appdata" folder can be entered by tapping windows button, or Win+R, and type %appdata% - Hit enter.
 
-NOTICE:
-To download a map, just browse the directories and click on the map you want to download. It should appear a "Download" button. You can also just "Clone/Download" the whole project with all the files and maps included, click the "clone or download" button in the upper right area of the project main page.
+HOW TO DOWNLOAD A MAP:
+To download a map, just browse the directories and click on the map you want to download. It should appear a "Download" button. You can also just "Clone/Download" the whole project with all the files and maps included, click the "clone or download" button in the upper right area of the project main page. It's 30+ MB in size.
 
 ### Some useful links
 * [Irfanview](https://www.irfanview.com/) - Free image software for editing .tga files.
