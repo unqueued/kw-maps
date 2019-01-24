@@ -1,9 +1,10 @@
 # Custom Maps
 
-Feel free to download and play my custom maps, both singleplayer and multiplayer.
-You can also edit my maps as much as you want, as long as I'm credited for the original work.
-Almost all of my maps (99%) have been tested online, or in singleplayer mode, and should be working fine (no desyncs etc).
-I try my best to test my maps online for bugs, desyncs and ofc balancing before I publish.
+Feel free to download and play my custom maps, both in singleplayer/solo and multiplayer/online mode.
+You can also edit my maps as much as you want, as long as I'm credited for the original work :)
+
+Almost all of my maps (99%) have been tested Online (also in singleplayer mode) and should be working fine (no desyncs or bugs).
+I try my best to test my maps online for bugs, desyncs and ofc balancing before I publish. But when I created some of the most recent ones, I did not have the time to test everything. If you play maps in Skirmish SOLO, desyncs will not appear. Use AI/Computer on the enemy start position as usual when playing solo.
 
 Multiplayer maps can be selected in the skirmish section of the game. Remember that some of the maps require an AI/Computer player to work correctly.
 Singleplayer maps can be selected in the custom maps section, Skirmish --> Custom maps.
