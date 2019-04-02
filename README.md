@@ -1,14 +1,14 @@
 # kw-maps
-### Kane's Wrath Custom Maps by erlNite (past erl115 / kirasaitru)
+### Kane's Wrath Custom Maps by erlNite (past erl115/Kirasaitru)
 
-#### Update 24/01/2019: Please don't ask me to edit or create more maps. Take a look at my tutorials on how to learn to create and edit maps yourself :) I may add a Patreon link in the future, where people that want me to make new maps can Subscribe to my Patreon site if they want more maps.
+#### Update 2019: From now on I'm only going to upload new maps at my [Patreon](https://www.patreon.com/erlNite) site, so you will need to Subscribe to get a hold of my new maps. I will not edit or create new maps for the public any longer. You can still download and play my older maps published here of course :)
 
-At this GitHub site you can find all my past and present custom maps, or maps in progress, and download, edit or play in-game/multiplayer. Some of the maps (the tank missions mostly) are created from original maps by others which are credited in the intro of the maps.
+At this site you'll find all my past KW custom maps to download, edit or play in-game/multiplayer. Some few of the maps (the tank missions mostly) are created from original maps by other map makers which are credited in the intro of the map.
 
-Be aware that a few of my maps (especially recent ones), may have some desync issues when played online. To solve this, you must play the map solo in Skirmish mode. In other words, playing a map in solo/singleplayer mode will not cause any desyncs.
-Desyncs (and bugs generally) are the worst aspect of C&C3 Kane's Wrath Online, these are hard to detect when playing solo, and some times hard, but mostly time consuming to fix...
+Be aware that a few of my maps (especially recent ones) may have some desync issues when played online (because they were not tested enough). If encountered, to solve this you must play the map solo in Skirmish mode. In other words, playing a map in solo/singleplayer mode will not cause any desyncs.
+Desyncs (and bugs generally) are the worst aspect of C&C3 Kane's Wrath Online, these are hard to detect when playing solo, and some times hard, but mostly time consuming to fix. Most of my maps (especially the most poular ones) does not have any desync issues, because they have been tested with online players.
 
-If my maps are edited, please give me some credits :)
+If my maps are edited, please give me some credits, thank you.
 For people who want to edit or create a new custom map, take a look in the Worldbuilder section. Tutorial link can be found below.
 
 
@@ -21,10 +21,11 @@ The "appdata" folder can be entered by tapping windows button, or Win+R, and typ
 
 HOW TO DOWNLOAD A MAP:
 
-To download a map, just browse the directories and click on the map you want to download. It should appear a "Download" button. You can also just "Clone/Download" the whole project with all the files and maps included, click the "clone or download" button in the upper right area of the project main page. It's 30+ MB in size.
+To download a map, just browse the directories and click on the map you want to download. It should appear a "Download" button. You can also just "Clone/Download" the whole project with all the Worlbuilder files and maps included, click the "clone or download" button in the upper right area of the project main page. Or you can go to releases and download the latest released map pack.
 
 
 ### Some useful links
+* [Patreon](https://www.patreon.com/erlNite) - Subscribe to my Patreon for new maps which are not published here.
 * [Irfanview](https://www.irfanview.com/) - Free image software for editing .tga files.
 * [C&C Online](https://cnc-online.net/en/) - Free multiplayer tool for playing Kane's Wrath with friends online.
 * [KW Worldbuilder](http://www.moddb.com/games/cc-kanes-wrath/downloads/cc-3-kanes-wrath-worldbuilder-v11) - Kane's Wrath Worldbuilder setup files.
@@ -35,4 +36,4 @@ To download a map, just browse the directories and click on the map you want to 
 * [Donate Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HJ3Z6X7C2HSSQ) - If you like my work and enjoy the maps, please consider a donation. It would be appreciated :)
 * [Donate Ethereum](https://etherdonation.com/d?to=0xD3AEb55CFE4aAb2f7b12Fc7D76C856a71090d333) - If you like my work and enjoy the maps, please consider a donation. It would be appreciated :)
 * [Custom maps Origin](http://www.cnclabs.com/FORUMS/CNC_POSTSM126363_mAPS-INSTALLATION--NOT-FOUND-MY-ANSWERS-YET.ASPX#POST126363) - How to install custom maps via Origin instead of Steam.
-* [KW WB TUTORIAL Video](https://www.youtube.com/watch?v=Z_LQOt3CSAY) - Learn how to create maps yourself ;)
+* [KW WB TUTORIAL Video](https://www.youtube.com/watch?v=Z_LQOt3CSAY) - Tutorial by me, learn how to create maps yourself ;) You need to use subs in the video.
