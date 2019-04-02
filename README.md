@@ -37,3 +37,6 @@ To download a map, just browse the directories and click on the map you want to 
 * [Donate Ethereum](https://etherdonation.com/d?to=0xD3AEb55CFE4aAb2f7b12Fc7D76C856a71090d333) - If you like my work and enjoy the maps, please consider a donation. It would be appreciated :)
 * [Custom maps Origin](http://www.cnclabs.com/FORUMS/CNC_POSTSM126363_mAPS-INSTALLATION--NOT-FOUND-MY-ANSWERS-YET.ASPX#POST126363) - How to install custom maps via Origin instead of Steam.
 * [KW WB TUTORIAL Video](https://www.youtube.com/watch?v=Z_LQOt3CSAY) - Tutorial by me, learn how to create maps yourself ;) You need to use subs in the video.
+* [YouTube Channel](https://www.youtube.com/c/erlNite) - Visit my YouTube Channel :)
+* [SoundCloud](https://soundcloud.com/erlnite/tracks) - Visit my SoundCloud page where I release music =)
+* [Pexels page](https://www.pexels.com/@erlnite-429115/) - Visit my Pexel page where I share some photos which you can use for free :D
