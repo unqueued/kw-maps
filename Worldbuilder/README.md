@@ -19,4 +19,4 @@ Feel free to download my exported scripts which makes map making much more effec
 * [Worldbuilder scripting](https://www.gamereplays.org/community/index.php?showtopic=261606) - Worldbuilder basic scripting guide.
 * [VCredist 2005 x86](https://www.microsoft.com/en-in/download/details.aspx?id=3387) - Microsoft Visual C++ 2005 Redistributable Package for the Worldbuilder. Install this package if you encounter an error when lauching the Worldbuilder.
 * [7-Zip](https://www.7-zip.org/) - Free software to unzip, or extract, the map files.
-* [Custom Maps/Tutorials](https://www.youtube.com/playlist?list=PLG-nemiRc1_pUJn8WQ85MwKuj352YgQu5) - Custom maps and tutorials by erlNite.
+* [Custom Maps/Tutorials](https://www.youtube.com/playlist?list=PLG-nemiRc1_pUJn8WQ85MwKuj352YgQu5) - Custom maps and tutorials by me.
