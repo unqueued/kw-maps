@@ -1,8 +1,6 @@
 # kw-maps
 ### Kane's Wrath Custom Maps by erlNite (past erl115/Kirasaitru)
 
-#### Update 2019: From now on I'm only going to upload new maps at my [Patreon](https://www.patreon.com/erlNite) site, so you will need to Subscribe to get a hold of my new maps. I will not edit or create new maps for the public any longer. You can still download and play my older maps published here of course :)
-
 At this site you'll find all my past KW custom maps to download, edit or play in-game/multiplayer. Some few of the maps (the tank missions mostly) are created from original maps by other map makers which are credited in the intro of the map.
 
 Be aware that a few of my maps (especially recent ones) may have some desync issues when played online (because they were not tested enough). If encountered, to solve this you must play the map solo in Skirmish mode. In other words, playing a map in solo/singleplayer mode will not cause any desyncs.
@@ -25,7 +23,7 @@ To download a map, just browse the directories and click on the map you want to 
 
 
 ### Some useful links
-* [Patreon](https://www.patreon.com/erlNite) - Subscribe to my Patreon for new maps which are not published here.
+* [Patreon](https://www.patreon.com/erlNite) - Subscribe to my Patreon tier to give me support and I may create more maps ^^
 * [Irfanview](https://www.irfanview.com/) - Free image software for editing .tga files.
 * [C&C Online](https://cnc-online.net/en/) - Free multiplayer tool for playing Kane's Wrath with friends online.
 * [KW Worldbuilder](http://www.moddb.com/games/cc-kanes-wrath/downloads/cc-3-kanes-wrath-worldbuilder-v11) - Kane's Wrath Worldbuilder setup files.
