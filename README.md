@@ -28,6 +28,7 @@ To download a map, just browse the directories and click on the map you want to 
 * [C&C Online](https://cnc-online.net/en/) - Free multiplayer tool for playing Kane's Wrath with friends online.
 * [KW Worldbuilder](http://www.moddb.com/games/cc-kanes-wrath/downloads/cc-3-kanes-wrath-worldbuilder-v11) - Kane's Wrath Worldbuilder setup files.
 * [Worldbuilder scripting](https://www.gamereplays.org/community/index.php?showtopic=261606) - Worldbuilder basic scripting guide.
+* [Worldbuilder scripting 2](https://www.gamereplays.org/kaneswrath/portals.php?show=page&name=kanes-wrath-tiberium-wars-world-builder-guide) - Worldbuilder basic scripting guide 2.
 * [VCredist 2005 x86](https://www.microsoft.com/en-in/download/details.aspx?id=3387) - Microsoft Visual C++ 2005 Redistributable Package for the Worldbuilder. Install this package if you encounter an error when lauching the Worldbuilder.
 * [7-Zip](https://www.7-zip.org/) - Free software to unzip, or extract, the map files.
 * [Custom Maps/Tutorials](https://www.youtube.com/playlist?list=PLG-nemiRc1_pUJn8WQ85MwKuj352YgQu5) - Custom maps and tutorials by me.
